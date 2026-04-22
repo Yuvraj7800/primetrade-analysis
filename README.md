@@ -200,4 +200,27 @@ PCA explained 60%+ variance in 2D. k=4 was chosen based on elbow analysis — th
 
 ---
 
-*Submitted for Primetrade.ai Data Science Intern — Round 0*
+## Charts
+
+### B1. Performance by Sentiment
+![Chart 1](charts/chart1_performance_by_sentiment.png)
+![Chart 2](charts/chart2_pnl_distributions.png)
+
+### B2. Trader Behavior
+![Chart 3](charts/chart3_behavior_by_sentiment.png)
+![Chart 7](charts/chart7_behavior_shift.png)
+
+### B3. Segmentation
+![Chart 4](charts/chart4_segmentation.png)
+
+### B4. Key Insights
+![Chart 5](charts/chart5_cumulative_pnl.png)
+![Chart 6](charts/chart6_winrate_heatmap.png)
+![Chart 8](charts/chart8_drawdown_fgi.png)
+
+### Bonus Clustering
+![Chart 9](charts/chart9_clustering.png)
+![Chart 10](charts/chart10_cluster_sentiment.png)
+
+
+
