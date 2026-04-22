@@ -7,7 +7,7 @@
 
 ```bash
 pip install pandas matplotlib seaborn scikit-learn scipy
-python analysis.py
+jupyter notebook primetrade_analysis_simple.ipynb
 ```
 
 All 10 charts are written to `charts/`.
